@@ -31,6 +31,6 @@ button {
     border: 0px;
     padding: 5px;
     background-color: blue;
-    color: rgb(197, 168, 0) ;
+    color: rgb(197, 168, 0);
 }
 </style>
